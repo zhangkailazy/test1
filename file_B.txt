@@ -1,0 +1,2 @@
+This is file B.
+It is committed from win_x86 by zhangkai.
